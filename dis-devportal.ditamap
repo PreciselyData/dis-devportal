@@ -1,0 +1,21 @@
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[]>
+<map xml:lang="en-us" id="DIS">
+  <title>Data Integrity Suite Developer Portal</title>
+  <topicmeta>
+    <prodinfo>
+      <prodname>Precisely Data Integrity Suite</prodname>
+      <vrmlist class="- topic/vrmlist ">
+        <vrm version="Main" class="- topic/vrm " />
+      </vrmlist>
+    </prodinfo>
+    <othermeta name="APIPortal" content="DISDevportal" />
+  </topicmeta>
+  <topicref href="gettingstarted.md" format="markdown">
+  </topicref>
+  <topicref href="authenticate.md" format="markdown">
+  </topicref>
+  <topicref href="startsnowflake.md" format="markdown">
+  </topicref>
+  <topicref href="geoaddressingfaq.md" format="markdown">
+  </topicref> 
+</map>
